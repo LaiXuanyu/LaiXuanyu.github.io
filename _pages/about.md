@@ -12,7 +12,11 @@ I am a student of MSC Applied Machine Learning at Imperial College London.
 My current individual project is " Underwater segmentation and detection. " This project is supervised by [Dr.Sen Wang](https://profiles.imperial.ac.uk/sen.wang) 
 I am also a member of [Sense Robotics Lab](https://www.imperial.ac.uk/sense-robotics-lab/research/)
 
-A data-driven personal website
+I am passionate about robotics, including hardware design, machine learning, and computer vision. My expertise spans PCB circuit design, image segmentation and detection, and embedded systems programming. I  have a strong self-drive. Currently, I am expanding my knowledge in Autonomous Driving and Embodied AI.
+
+Currently, I am seeking a PhD or Research Assistant(RA) position in Robotics or other related field.
+
+Education experience
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
