@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Xuanyu Lai"
-excerpt: "About me"
+excerpt: "Xuanyu Lai"
 author_profile: true
 redirect_from: 
   - /about/
