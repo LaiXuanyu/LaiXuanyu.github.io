@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Xuanyu_Lai-Profile.png"
+  avatar           : "Xuanyu_Lai-profile.png"
   name             : "Xuanyu Lai"
   pronouns         : # example: "she/her"  
   bio              : "MSC Applied Machine Learning        Computer Vision & Robotics"
