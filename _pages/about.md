@@ -39,7 +39,7 @@ Education experience
 Publication
 ======
 **Pattern**
-1. [ FPGA-based semi-physical simulation method for single-phase photovoltaic grid-connected inverter]([https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20230602&DB=&locale=&CC=CN&NR=116205179A&KC=A&ND=1])
+1. [ FPGA-based semi-physical simulation method for single-phase photovoltaic grid-connected inverter](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20230602&DB=&locale=&CC=CN&NR=116205179A&KC=A&ND=1)
 Q Liu, Hou Qi, **Xuanyu Lai**, etc., (2023) 202310221502.6 
 
 **Paper**
