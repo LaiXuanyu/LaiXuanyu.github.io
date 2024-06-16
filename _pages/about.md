@@ -15,6 +15,7 @@ I am also a member of [Sense Robotics Lab](https://www.imperial.ac.uk/sense-robo
 I am passionate about robotics, including hardware design, machine learning, and computer vision. My expertise spans PCB circuit design, image segmentation and detection, and embedded systems programming. I  have a strong self-drive. Currently, I am expanding my knowledge in Autonomous Driving and Embodied AI.
 
 **I am seeking a PhD or Research Assistant(RA) position in 2025/2026 acadamic year.**
+
 Contact
 * Email:
   * LaiXuanyu2000@163.com       (primary)
