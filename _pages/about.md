@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a student of MSC Applied Machine Learning at Imperial College London,supervised by [Dr.Sen Wang](https://profiles.imperial.ac.uk/sen.wang) 
-I am also a member of [Sense Robotics Lab](https://www.imperial.ac.uk/sense-robotics-lab/research/)
+I am a student of MSC Applied Machine Learning at Imperial College London, supervised by [Dr.Sen Wang](https://profiles.imperial.ac.uk/sen.wang). I am also a member of [Sense Robotics Lab](https://www.imperial.ac.uk/sense-robotics-lab/research/)
 
 I am passionate about robotics, including hardware design, machine learning, and computer vision. My expertise spans PCB circuit design, image segmentation and detection, and embedded systems programming. I  have a strong self-drive. Currently, I am expanding my knowledge in Autonomous Driving and Embodied AI.
 
