@@ -17,6 +17,7 @@ I am passionate about robotics, including hardware design, machine learning, and
 **I am seeking a PhD or Research Assistant(RA) position in 2025/2026 acadamic year.**
 
 Contact
+======
 * Email:
   * LaiXuanyu2000@163.com       (primary)
   * xuanyu.lai23@imperial.ac.uk (University)
